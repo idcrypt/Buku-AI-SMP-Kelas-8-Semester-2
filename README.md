@@ -1,5 +1,6 @@
-# BUKU AI SD/MI Kelas 5 Semester 1: Belajar Logika, Coding Visual, Literasi Digital, dan AI
-Aolia Ikhwanudin
+# Buku AI SMP Kelas 8 Semester 2 AI dan App Inventor Belajar Teknologi Keren di SMP
+Jumlah Pertemuan: 14
+Luthfia Saskia
 Onno W. Purbo
 Institut Teknologi Tangerang Selatan (ITTS)
 2025
